@@ -4,22 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:orientation="vertical"
+    tools:context=".PindahDenganData"
     android:padding="20dp">
 
-    <Button
-        android:id="@+id/btn_pindah_activity"
+    <TextView
+        android:id="@+id/tv_data_diterima"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/txt_pindah_activity"
-        android:layout_marginBottom="16dp"/>
+        android:text="@string/txt_data_diterima"/>
 
-    <Button
-        android:id="@+id/btn_pindah_dengan_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/txt_pindah_dengan_data"
-        android:layout_marginBottom="16dp"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>
