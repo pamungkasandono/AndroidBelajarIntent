@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Intent</string>
+    <string name="txt_pindah_activity">Pindah Activity</string>
+    <string name="txt_ini_moveactivity">Ini MoveActivity</string>
+</resources>
