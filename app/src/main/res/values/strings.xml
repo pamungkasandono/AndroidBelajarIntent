@@ -4,4 +4,6 @@
     <string name="txt_ini_moveactivity">Ini MoveActivity</string>
     <string name="txt_pindah_dengan_data">Pindah dengan data</string>
     <string name="txt_data_diterima">Data diterima</string>
+    <string name="txt_pindah_dengan_object">Pindah dengan object</string>
+    <string name="txt_object_di_terima">Object Di Terima</string>
 </resources>
