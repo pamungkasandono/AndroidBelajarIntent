@@ -7,4 +7,11 @@
     <string name="txt_pindah_dengan_object">Pindah dengan object</string>
     <string name="txt_object_di_terima">Object Di Terima</string>
     <string name="txt_dial_number">Dial number</string>
+    <string name="txt_pindah_dengan_membawa_hasil">Pindah dengan membawa hasil</string>
+    <string name="txt_hasilnya">Hasilnya</string>
+    <string name="txt_pilih_angka_di_bawah">Pilih angka di bawah</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="txt_pilih">Pilih</string>
 </resources>
