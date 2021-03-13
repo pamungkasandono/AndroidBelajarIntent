@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         btnPindahActivity.setOnClickListener(this)
         btnPindahDenganData.setOnClickListener(this)
-
     }
 
     override fun onClick(v: View?) {
